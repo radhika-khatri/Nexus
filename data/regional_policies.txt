@@ -1,0 +1,135 @@
+AUH-East Zone: Maximum equipment height allowed on any structure is 55 meters, and no single tenant asset may exceed 85kg due to bedrock structural baselines.
+
+AUH-MainIsland Zone: Due to historic city center restrictions, maximum equipment height allowed on any structure is 35 meters, and no single tenant asset may exceed 50kg.
+
+AUH-YasIsland Zone: Due to high-profile entertainment zoning, maximum equipment height allowed on any structure is 40 meters, and no single tenant asset may exceed 45kg to maintain clean aesthetics.
+
+AUH-Saadiyat Zone: Due to cultural district architectural guidelines, maximum equipment height allowed on any structure is 30 meters, and no single tenant asset may exceed 35kg.
+
+AUH-KhalifaCity Zone: Maximum equipment height allowed on any structure is 48 meters, and no single tenant asset may exceed 65kg due to localized soil profiles.
+
+AUH-Musaffah Zone: Due to heavy industrial manufacturing, maximum equipment height allowed on any structure is 50 meters, and no single tenant asset may exceed 120kg.
+
+AUH-AlReem Zone: Due to high-density high-rise corridors, maximum equipment height allowed on any structure is 60 meters, and no single tenant asset may exceed 75kg.
+
+AUH-Ruwais Zone: Due to specialized industrial chemical processing, maximum equipment height allowed on any structure is 45 meters, and no single tenant asset may exceed 150kg.
+
+DXB-North Zone: Maximum equipment height allowed on any structure is 45 meters, and no single tenant asset may exceed 70kg due to high density loading restrictions.
+
+DXB-South Zone: Maximum equipment height allowed on any structure is 52 meters, and no single tenant asset may exceed 90kg to accommodate logistics-related sensory grids.
+
+DXB-East Zone: Maximum equipment height allowed on any structure is 42 meters, and no single tenant asset may exceed 65kg based on residential proximity limits.
+
+DXB-West Zone: Maximum equipment height allowed on any structure is 47 meters, and no single tenant asset may exceed 75kg under maritime buffer regulations.
+
+DXB-Downtown Zone: Due to high-profile commercial zoning, maximum equipment height allowed on any structure is 35 meters, and no single tenant asset may exceed 40kg to minimize visible external hardware.
+
+DXB-JebelAli Zone: Due to deep-water port operations, maximum equipment height allowed on any structure is 55 meters, and no single tenant asset may exceed 180kg.
+
+DXB-Marina Zone: Due to proximity to the coast, maximum equipment height allowed on any structure is 38 meters, and no single tenant asset may exceed 30kg due to salt-spray wind dynamics.
+
+DXB-SiliconOasis Zone: Due to technological research zoning, maximum equipment height allowed on any structure is 50 meters, and no single tenant asset may exceed 80kg.
+
+DXB-AcademicCity Zone: Maximum equipment height allowed on any structure is 38 meters, and no single tenant asset may exceed 55kg under campus safety codes.
+
+DXB-Hatta Zone: Due to mountainous terrain, maximum equipment height allowed on any structure is 65 meters, and no single tenant asset may exceed 45kg to combat steep mechanical shear stress.
+
+DXB-CreekHarbor Zone: Due to unique sanctuary views, maximum equipment height allowed on any structure is 33 meters, and no single tenant asset may exceed 35kg to protect flight paths of local wildlife.
+
+DXB-PalmCrescent Zone: Due to extreme open-sea wind exposure, maximum equipment height allowed on any structure is 28 meters, and no single tenant asset may exceed 20kg.
+
+DXB-InternationalCity Zone: Maximum equipment height allowed on any structure is 40 meters, and no single tenant asset may exceed 60kg due to rooftop design thresholds.
+
+DXB-AlMaktoumBuffer Zone: Due to airport flight path intersections, maximum equipment height allowed on any structure is 25 meters, and no single tenant asset may exceed 50kg.
+
+DXB-Mirdif Zone: Due to low-altitude flight paths, maximum equipment height allowed on any structure is 28 meters, and no single tenant asset may exceed 55kg.
+
+SHJ-Coastal Zone: Due to wind-load factors near the ocean, maximum equipment height allowed on any structure is 32 meters, and no single tenant asset may exceed 25kg.
+
+SHJ-South Zone: Due to the ocean, maximum equipment height allowed on any structure is 30 meters, and no single tenant asset may exceed 15kg to prevent structural swaying.
+
+SHJ-Industrial Zone: Due to heavy manufacturing setups, maximum equipment height allowed on any structure is 48 meters, and no single tenant asset may exceed 110kg.
+
+SHJ-AlMajaz Zone: Due to high-density lakeside residential zoning, maximum equipment height allowed on any structure is 42 meters, and no single tenant asset may exceed 40kg.
+
+SHJ-AlNahda Zone: Maximum equipment height allowed on any structure is 46 meters, and no single tenant asset may exceed 65kg due to high building concentration limits.
+
+SHJ-UniversityCity Zone: Due to academic architectural requirements, maximum equipment height allowed on any structure is 32 meters, and no single tenant asset may exceed 45kg.
+
+SHJ-Muwaileh Zone: Maximum equipment height allowed on any structure is 36 meters, and no single tenant asset may exceed 50kg due to low-rise building code restrictions.
+
+SHJ-AlKhan Zone: Due to lagoon wind paths, maximum equipment height allowed on any structure is 35 meters, and no single tenant asset may exceed 35kg.
+
+SHJ-KhorFakkan Zone: Due to oceanfront cliffs, maximum equipment height allowed on any structure is 40 meters, and no single tenant asset may exceed 20kg because of wind amplification.
+
+AJM-Downtown Zone: Maximum equipment height allowed on any structure is 44 meters, and no single tenant asset may exceed 60kg under municipal safety frameworks.
+
+AJM-AlJurf Zone: Maximum equipment height allowed on any structure is 40 meters, and no single tenant asset may exceed 55kg.
+
+AJM-Corniche Zone: Due to high sea spray corrosion risk, maximum equipment height allowed on any structure is 30 meters, and no single tenant asset may exceed 30kg.
+
+AJM-AlRawda Zone: Maximum equipment height allowed on any structure is 45 meters, and no single tenant asset may exceed 65kg.
+
+AJM-Industrial Zone: Due to manufacturing guidelines, maximum equipment height allowed on any structure is 46 meters, and no single tenant asset may exceed 95kg.
+
+AJM-AlNuaimia Zone: Maximum equipment height allowed on any structure is 38 meters, and no single tenant asset may exceed 50kg due to older residential foundation profiles.
+
+AJM-AlHamidiyah Zone: Maximum equipment height allowed on any structure is 42 meters, and no single tenant asset may exceed 60kg.
+
+AJM-Mushairif Zone: Maximum equipment height allowed on any structure is 39 meters, and no single tenant asset may exceed 55kg.
+
+RAK-AlHamra Zone: Due to coastal resort design codes, maximum equipment height allowed on any structure is 33 meters, and no single tenant asset may exceed 28kg.
+
+RAK-JebelJais Zone: Due to severe high-altitude peak winds, maximum equipment height allowed on any structure is 20 meters, and no single tenant asset may exceed 15kg.
+
+RAK-AlDhait Zone: Maximum equipment height allowed on any structure is 45 meters, and no single tenant asset may exceed 70kg.
+
+RAK-Maritime Zone: Due to active shipyard loads, maximum equipment height allowed on any structure is 50 meters, and no single tenant asset may exceed 130kg.
+
+RAK-Industrial Zone: Due to heavy fabrication units, maximum equipment height allowed on any structure is 48 meters, and no single tenant asset may exceed 115kg.
+
+RAK-MinaAlArab Zone: Due to coastal lagoon protection rules, maximum equipment height allowed on any structure is 35 meters, and no single tenant asset may exceed 22kg.
+
+RAK-AlNakheel Zone: Maximum equipment height allowed on any structure is 41 meters, and no single tenant asset may exceed 60kg.
+
+RAK-AlDigdaga Zone: Maximum equipment height allowed on any structure is 48 meters, and no single tenant asset may exceed 75kg due to inland agricultural soil traits.
+
+UAQ-Mangrove Zone: Due to sensitive eco-reserve restrictions, maximum equipment height allowed on any structure is 25 meters, and no single tenant asset may exceed 30kg.
+
+UAQ-Industrial Zone: Due to regional foundry operations, maximum equipment height allowed on any structure is 42 meters, and no single tenant asset may exceed 90kg.
+
+UAQ-Falaj Zone: Maximum equipment height allowed on any structure is 43 meters, and no single tenant asset may exceed 60kg.
+
+UAQ-Waterfront Zone: Due to open marine exposures, maximum equipment height allowed on any structure is 30 meters, and no single tenant asset may exceed 25kg under local tidal wind caps.
+
+UAQ-AlSalamah Zone: Maximum equipment height allowed on any structure is 46 meters, and no single tenant asset may exceed 65kg.
+
+UAQ-AlHaditha Zone: Maximum equipment height allowed on any structure is 40 meters, and no single tenant asset may exceed 55kg.
+
+UAQ-AlHamrah Zone: Maximum equipment height allowed on any structure is 44 meters, and no single tenant asset may exceed 60kg.
+
+UAQ-OldTown Zone: Due to heritage preservation codes, maximum equipment height allowed on any structure is 24 meters, and no single tenant asset may exceed 35kg to prevent localized vibrations.
+
+FUJ-Port Zone: Due to commercial shipping infrastructure, maximum equipment height allowed on any structure is 52 meters, and no single tenant asset may exceed 140kg.
+
+FUJ-Quarry Zone: Due to extreme vibrations from blasting, maximum equipment height allowed on any structure is 38 meters, and no single tenant asset may exceed 60kg on reinforced frames.
+
+FUJ-Coastal Zone: Due to high Indian Ocean wave actions, maximum equipment height allowed on any structure is 35 meters, and no single tenant asset may exceed 25kg.
+
+FUJ-Mountain Zone: Due to steep rocky gradients, maximum equipment height allowed on any structure is 50 meters, and no single tenant asset may exceed 35kg due to seismic and slope stability.
+
+FUJ-Residential Zone: Maximum equipment height allowed on any structure is 38 meters, and no single tenant asset may exceed 50kg.
+
+FUJ-Mirbah Zone: Due to marine air humidity, maximum equipment height allowed on any structure is 36 meters, and no single tenant asset may exceed 30kg.
+
+FUJ-IndustrialComplex Zone: Due to heavy oil storage setups, maximum equipment height allowed on any structure is 45 meters, and no single tenant asset may exceed 160kg.
+
+FUJ-AlBidiyah Zone: Due to archaeological site protection, maximum equipment height allowed on any structure is 20 meters, and no single tenant asset may exceed 25kg to preserve sub-surface ruins.
+
+AUH-MainIsland Zone: Due to historic city center restrictions, maximum equipment height allowed on any structure is 35 meters, and no single tenant asset may exceed 50kg.
+
+DXB-West Zone: Maximum equipment height allowed on any structure is 47 meters, and no single tenant asset may exceed 75kg under maritime buffer regulations.
+
+SHJ-AlNahda Zone: Maximum equipment height allowed on any structure is 46 meters, and no single tenant asset may exceed 65kg due to high building concentration limits.
+
+AJM-AlNuaimia Zone: Maximum equipment height allowed on any structure is 38 meters, and no single tenant asset may exceed 50kg due to older residential foundation profiles.
